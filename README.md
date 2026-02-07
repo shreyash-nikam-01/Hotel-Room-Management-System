@@ -1,4 +1,4 @@
-# Hotel Management System
+# Hotel Room Management System
 
 A full-stack web application for managing hotel operations with a frontend (HTML, CSS, JavaScript) and backend (Node.js, Express) connected to a SQLite database.
 
@@ -150,5 +150,6 @@ This project was developed as a mini project for the Database Management Systems
 This project was developed by students as an academic assignment. For issues or suggestions, please contact the developer.
 
 ## License
+
 
 This project is developed for educational purposes only.
