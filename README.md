@@ -2,6 +2,8 @@
 
 A full-stack web application for managing hotel operations with a frontend (HTML, CSS, JavaScript) and backend (Node.js, Express) connected to a SQLite database.
 
+Live Demo: https://hotel-room-management-system.vercel.app/
+
 ## Developers
 
 **Prathamesh Barbole** - Lead Developer
